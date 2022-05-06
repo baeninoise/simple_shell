@@ -62,30 +62,3 @@ hsh main.c shell.c test_ls_2
 hsh main.c shell.c test_ls_2
 $
 ```
-
-### Usage Examples
-
-In the terminal, our version of the simple shell looks like this:
-
-```sh
-$ /bin/ls -l
-drwxrwxr-x 1 vagrant vagrant 279 Nov 20 03:14 README.md
-drwxrwxr-x 2 vagrant vagrant 165 Nov 20 23:46 arguments.c
-```
-
-```sh
-$ /bin/pwd
-/home/vagrant/test_my_own_shell
-```
-
-```sh
-$ hhhhh
-Does not execute, write valid command: No such file or directory
-```
-
-## Contributing
-You can contribute with this shell adding some buil-int functions, feel free to make pull request.
-
-## Autors
-- [Lady Marcela Sánchez Moreno](https://github.com/marcewp15)
-- [Pilar Andrea Pinto](https://github.com/PilarPinto)
