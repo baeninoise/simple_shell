@@ -1,6 +1,6 @@
 #include "shell.c"
 /**
- * _strlen - length of string
+ *_strlen - length of string
  *@s: input pointer
  * Return: length of string
  */
